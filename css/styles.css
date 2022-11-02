@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif, 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--black-color);
   display: block;
   margin: 0 auto;
