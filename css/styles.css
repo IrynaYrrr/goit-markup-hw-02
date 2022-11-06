@@ -197,13 +197,3 @@ body {
   letter-spacing: 0.03em;
   color: var(--grey-color);
 }
-
-
-
-
-.project-type {
-  font-size: 16px;
-  line-height: 1.9;
-  letter-spacing: 0.03em;
-  color: var(--grey-color);
-}
